@@ -9,6 +9,11 @@
     android:layout_height="match_parent"
     tools:context="com.example.administrator.shareproject.MainActivity">
 
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="hello" />
+
 
     <Button
         android:id="@+id/button1"
